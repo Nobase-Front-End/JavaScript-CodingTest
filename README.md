@@ -1,8 +1,19 @@
 # 🔨 JavaScript Coding Test Bbo-gae-gi 🔨
 자바스크립트 코딩테스트를 뽀개기 위한 레포지토리입니다.  
 부트캠프 일정에 무리가 가지 않는 선에서 각자 꾸준히 알고리즘 문제를 푸는 것을 목표로 합니다.  
-<br>
 <br/>
+
+|주차|주제|문제|
+|---|---|---|
+|1주차|[10. 브루트 포스](https://www.acmicpc.net/step/22)|[2798. 블랙잭](https://www.acmicpc.net/problem/2798)|
+|    |                                               |[2231. 분해합](https://www.acmicpc.net/problem/2231)|
+|    |                                               |[7568. 덩치](https://www.acmicpc.net/problem/7568)|
+|    |                                               |[1018. 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|
+|    |                                               |[1436. 영화감독 숌](https://www.acmicpc.net/problem/1436)| 
+
+
+------ 
+<br>
 
 ## 👻 공부 방법 👻
 백준 단계별로 풀어보기(https://www.acmicpc.net/step) **10단계**부터 매주 한단계씩 뽀갭니다.
