@@ -1,8 +1,7 @@
 const input = require("fs")
   .readFileSync(process.platform === "linux" ? "/dev/stdin" : "./input.txt")
   .toString()
-  .trim()
-  .split("\n");
+  .trim();
 
 const N = +input;
 
