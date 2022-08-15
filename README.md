@@ -9,10 +9,12 @@
 |    |                                               |[2231. 분해합](https://www.acmicpc.net/problem/2231)|
 |    |                                               |[7568. 덩치](https://www.acmicpc.net/problem/7568)|
 |    |                                               |[1018. 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|
-|    |                                               |[1436. 영화감독 숌](https://www.acmicpc.net/problem/1436)| 
+|    |                                               |[1436. 영화감독 숌](https://www.acmicpc.net/problem/1436)|
+|2주차|[11. 정렬] (https://www.acmicpc.net/step/9)     |[2108. 통계학](https://www.acmicpc.net/problem/2108)|
+|    |                                               |[11650. 좌표 정렬하기](https://www.acmicpc.net/problem/11650)|
+|    |                                               |[1181. 단어 정렬](https://www.acmicpc.net/problem/1181)|
+|    |                                               |[10814. 나이순 정렬](https://www.acmicpc.net/problem/10814)|
 
-
------- 
 <br>
 
 ## 👻 공부 방법 👻
