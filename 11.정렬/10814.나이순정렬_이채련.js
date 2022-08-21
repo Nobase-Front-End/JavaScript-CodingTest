@@ -1,10 +1,11 @@
-const path = process.platform === "linux" ? "/dev/stdin" : "input.txt";
-
 const input = require("fs")
-  .readFileSync(path)
+  .readFileSync("/dev/stdin")
   .toString()
   .trim()
-  .split("\n")
-  .map((i) => i.split(" "));
+  .split("\n");
 
+const len = input.shift();
 
+input.sort((a, b) => a.split(" ")[0] - b.split(" ")[0]);
+
+console.log(input.join("\n"));

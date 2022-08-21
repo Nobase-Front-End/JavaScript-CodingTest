@@ -26,10 +26,10 @@ function solution(){
   //첫번째와, 두번째 단어의 길이값을 음수, 양수로 반환해주는 함수를 만들어줍니다. 
   const comparator = (first, second) => first.length - second.length;
 
-  //길이정렬을 해주기 위해 sort함수 내에 인자로 음수와 양수값을 반환해주는 comparator 함수를 넣어 줍니다. 
+  //길이정렬을 해주기 위해 sort함수 내에 comparator 함수를 넣어 줍니다. 
   answer.sort(comparator);
 
-  console.log(answer);
+  console.log(answer.join("\n"));
 }
 
 solution(); 
