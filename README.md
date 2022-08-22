@@ -14,6 +14,11 @@
 |    |                                               |[11650. 좌표 정렬하기](https://www.acmicpc.net/problem/11650)|
 |    |                                               |[1181. 단어 정렬](https://www.acmicpc.net/problem/1181)|
 |    |                                               |[10814. 나이순 정렬](https://www.acmicpc.net/problem/10814)|
+|3주차|[12. 집합과 맵](https://www.acmicpc.net/step/49) |[14425. 문자열 집합](https://www.acmicpc.net/problem/14425)|
+|    |                                               |[1620. 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)|
+|    |                                               |[1764. 듣보잡](https://www.acmicpc.net/problem/1764)|
+|    |                                               |[1269. 대칭 차집합](https://www.acmicpc.net/problem/1269)|
+|    |                                               |[11478. 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)|
 
 <br>
 
