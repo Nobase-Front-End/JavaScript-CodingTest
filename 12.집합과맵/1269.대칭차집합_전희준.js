@@ -4,7 +4,7 @@ const input = require("fs")
   .trim()
   .split("\n");
 
-// 차집합 프로포타입 메서드
+// 차집합 프로토타입 메서드
 Set.prototype.difference = function (set) {
   const result = new Set(this);
   for (const value of set) {
