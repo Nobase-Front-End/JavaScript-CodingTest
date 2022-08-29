@@ -5,20 +5,26 @@
 
 |주차|주제|문제|
 |---|---|---|
-|1주차|[10. 브루트 포스](https://www.acmicpc.net/step/22)|[2798. 블랙잭](https://www.acmicpc.net/problem/2798)|
-|    |                                               |[2231. 분해합](https://www.acmicpc.net/problem/2231)|
-|    |                                               |[7568. 덩치](https://www.acmicpc.net/problem/7568)|
-|    |                                               |[1018. 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|
-|    |                                               |[1436. 영화감독 숌](https://www.acmicpc.net/problem/1436)|
-|2주차|[11. 정렬](https://www.acmicpc.net/step/9)      |[2108. 통계학](https://www.acmicpc.net/problem/2108)|
-|    |                                               |[11650. 좌표 정렬하기](https://www.acmicpc.net/problem/11650)|
-|    |                                               |[1181. 단어 정렬](https://www.acmicpc.net/problem/1181)|
-|    |                                               |[10814. 나이순 정렬](https://www.acmicpc.net/problem/10814)|
-|3주차|[12. 집합과 맵](https://www.acmicpc.net/step/49) |[14425. 문자열 집합](https://www.acmicpc.net/problem/14425)|
-|    |                                               |[1620. 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)|
-|    |                                               |[1764. 듣보잡](https://www.acmicpc.net/problem/1764)|
-|    |                                               |[1269. 대칭 차집합](https://www.acmicpc.net/problem/1269)|
-|    |                                               |[11478. 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)|
+|1주차|[10. 브루트 포스](https://www.acmicpc.net/step/22)     |[2798. 블랙잭](https://www.acmicpc.net/problem/2798)|
+|    |                                                    |[2231. 분해합](https://www.acmicpc.net/problem/2231)|
+|    |                                                    |[7568. 덩치](https://www.acmicpc.net/problem/7568)|
+|    |                                                    |[1018. 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|
+|    |                                                    |[1436. 영화감독 숌](https://www.acmicpc.net/problem/1436)|
+|2주차|[11. 정렬](https://www.acmicpc.net/step/9)           |[2108. 통계학](https://www.acmicpc.net/problem/2108)|
+|    |                                                    |[11650. 좌표 정렬하기](https://www.acmicpc.net/problem/11650)|
+|    |                                                    |[1181. 단어 정렬](https://www.acmicpc.net/problem/1181)|
+|    |                                                    |[10814. 나이순 정렬](https://www.acmicpc.net/problem/10814)|
+|3주차|[12. 집합과 맵](https://www.acmicpc.net/step/49)      |[14425. 문자열 집합](https://www.acmicpc.net/problem/14425)|
+|    |                                                    |[1620. 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)|
+|    |                                                    |[1764. 듣보잡](https://www.acmicpc.net/problem/1764)|
+|    |                                                    |[1269. 대칭 차집합](https://www.acmicpc.net/problem/1269)|
+|    |                                                    |[11478. 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)|
+|4주차|[14. 정수론 및 조합론](https://www.acmicpc.net/step/18) |[2609. 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|
+|    |                                                    |[1934. 최소공배수](https://www.acmicpc.net/problem/1934)|
+|    |                                                    |[2981. 검문](https://www.acmicpc.net/problem/2981)|
+|    |                                                    |[3036. 링](https://www.acmicpc.net/problem/3036)|
+|    |                                                    |[1010. 다리 놓기](https://www.acmicpc.net/problem/1010)|
+|    |                                                    |[9375. 패션왕 신혜빈](https://www.acmicpc.net/problem/9375)|
 
 <br>
 
