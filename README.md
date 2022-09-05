@@ -25,6 +25,11 @@
 |    |                                                    |[3036. 링](https://www.acmicpc.net/problem/3036)|
 |    |                                                    |[1010. 다리 놓기](https://www.acmicpc.net/problem/1010)|
 |    |                                                    |[9375. 패션왕 신혜빈](https://www.acmicpc.net/problem/9375)|
+|5주차|[15. 백트래킹](https://www.acmicpc.net/step/34)       |[15649. N과 M(1)](https://www.acmicpc.net/problem/15649)|
+|    |                                                    |[15650. N과 M(2)](https://www.acmicpc.net/problem/15650)|
+|    |                                                    |[9663. N-Queen](https://www.acmicpc.net/problem/9663)|
+|    |                                                    |[14888. 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|
+|    |                                                    |[14889. 스타트와 링크](https://www.acmicpc.net/problem/14889)|
 
 <br>
 
