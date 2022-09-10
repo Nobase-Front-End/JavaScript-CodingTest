@@ -2,7 +2,7 @@
 !! 퀸 : 가로, 세로, 대각선으로 이동가능
 1. N X N이니깐 한 열에 하나의 퀸이 들어감 -> 열이나 행 고정
 2. 하나의 열/ 행에 퀸이 1개씩 들어감 (근데 대각선이나 좌우에 퀸이 없어야 함)
-*/
+*/ 
 const N = +require("fs")
   .readFileSync(process.platform === "linux" ? "/dev/stdin" : "./input.txt")
   .toString()
