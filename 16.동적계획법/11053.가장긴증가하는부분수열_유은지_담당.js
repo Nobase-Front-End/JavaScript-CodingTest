@@ -19,7 +19,7 @@ for (let i = 0; i < num; i++) {
       max = dp[j];
     }
   }
-  dp[i] = max + 1; // 자기 자신도 더하기
+  dp[i] = max + 1; 
 }
 
 console.log(Math.max(...dp));
