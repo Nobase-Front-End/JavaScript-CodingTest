@@ -9,6 +9,7 @@ const input = require("fs")
 
 function solution() {
   const N = +input[0];
+  // const nums = input.slice(1, N+1).map(v => +v).sort((a, b) => a - b);
   const nums = [];
   for (let i = 0; i < N; i++) {
     nums.push(+input[i + 1]);
@@ -22,6 +23,11 @@ function solution() {
   nums.forEach((num) => {
     cntNums[num] = cntNums[num] ? cntNums[num] + 1 : 1;
   });
+  // const numObj = nums.reduce((acc, curr) => {
+  //   acc[curr] = (acc[curr] || 0) + 1;
+  //   return acc;
+  // }, {});
+  // Object.entries(numbObj).sort(([_, aValue], [_, bValue]) => aValue - bValue);
 
   // 최빈값
   let maxNum = Math.max(...Object.values(cntNums));

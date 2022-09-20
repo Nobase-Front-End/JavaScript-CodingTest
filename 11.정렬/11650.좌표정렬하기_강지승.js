@@ -13,15 +13,12 @@ function solution() {
   for (let i = 0; i < N; i++) {
     dots.push(input[i + 1].map(Number));
   }
-
-  dots.sort((a, b) => (a[0] === b[0] ? a[1] - b[1] : a[0] - b[0]));
-
-  let answer = "";
-  dots.forEach((dot) => {
-    answer += dot.join(" ") + "\n";
-  });
-
-  console.log(answer);
+  return input
+    .slice(1)
+    .map((v) => +v)
+    .sort((a, b) => (a[0] === b[0] ? a[1] - b[1] : a[0] - b[0]))
+    .map((v) => v.join(" ") + "\n")
+    .join("");
 }
 
 solution();
