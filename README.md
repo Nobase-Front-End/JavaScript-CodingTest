@@ -30,6 +30,11 @@
 |    |                                                    |[9663. N-Queen](https://www.acmicpc.net/problem/9663)|
 |    |                                                    |[14888. 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|
 |    |                                                    |[14889. 스타트와 링크](https://www.acmicpc.net/problem/14889)|
+|6주차|[16. 동적계획법 1](https://www.acmicpc.net/step/16)    |[9461. 파도반 수열](https://www.acmicpc.net/problem/9461)|
+|    |                                                    |[1912. 연속합](https://www.acmicpc.net/problem/1912)|
+|    |                                                    |[1932. 정수 삼각형](https://www.acmicpc.net/problem/1932)|
+|    |                                                    |[2579. 계단 오르기](https://www.acmicpc.net/problem/2579)|
+|    |                                                    |[11053. 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|
 
 <br>
 
