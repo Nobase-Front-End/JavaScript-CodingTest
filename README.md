@@ -35,6 +35,11 @@
 |    |                                                    |[1932. 정수 삼각형](https://www.acmicpc.net/problem/1932)|
 |    |                                                    |[2579. 계단 오르기](https://www.acmicpc.net/problem/2579)|
 |    |                                                    |[11053. 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|
+|7주차|[18. 그리디 알고리즘](https://www.acmicpc.net/step/33)  |[11047. 동전 0](https://www.acmicpc.net/problem/11047)|
+|    |                                                    |[1931. 회의실 배정](https://www.acmicpc.net/problem/1931)|
+|    |                                                    |[11399. ATM](https://www.acmicpc.net/problem/11399)|
+|    |                                                    |[1541. 잃어버린 괄호](https://www.acmicpc.net/problem/1541)|
+|    |                                                    |[13305. 주유소](https://www.acmicpc.net/problem/13305)|
 
 <br>
 
