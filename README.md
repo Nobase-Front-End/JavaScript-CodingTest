@@ -40,6 +40,11 @@
 |    |                                                    |[11399. ATM](https://www.acmicpc.net/problem/11399)|
 |    |                                                    |[1541. 잃어버린 괄호](https://www.acmicpc.net/problem/1541)|
 |    |                                                    |[13305. 주유소](https://www.acmicpc.net/problem/13305)|
+|8주차|[19. 스택](https://www.acmicpc.net/step/11)  |[10828. 스택](https://www.acmicpc.net/problem/10828)|
+|    |                                                    |[10773. 제로](https://www.acmicpc.net/problem/10773)|
+|    |                                                    |[9012. 괄호](https://www.acmicpc.net/problem/9012)|
+|    |                                                    |[4949. 균형잡힌 세상](https://www.acmicpc.net/problem/4949)|
+|    |                                                    |[1874. 스택 수열](https://www.acmicpc.net/problem/1874)|
 
 <br>
 
