@@ -7,7 +7,6 @@ function solution() {
   let answer = "";
 
   let check = [];
-  let visited = Array.from({ length: N + 1 }, () => false);
 
   function backtracking(k, s) {
     if (check.length === M) return (answer += `${check.join(" ")}\n`);
