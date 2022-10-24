@@ -5,46 +5,51 @@
 
 |주차|주제|문제|
 |---|---|---|
-|1주차|[10. 브루트 포스](https://www.acmicpc.net/step/22)     |[2798. 블랙잭](https://www.acmicpc.net/problem/2798)|
+|1주차|[12. 브루트 포스](https://www.acmicpc.net/step/22)     |[2798. 블랙잭](https://www.acmicpc.net/problem/2798)|
 |    |                                                    |[2231. 분해합](https://www.acmicpc.net/problem/2231)|
 |    |                                                    |[7568. 덩치](https://www.acmicpc.net/problem/7568)|
 |    |                                                    |[1018. 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|
 |    |                                                    |[1436. 영화감독 숌](https://www.acmicpc.net/problem/1436)|
-|2주차|[11. 정렬](https://www.acmicpc.net/step/9)           |[2108. 통계학](https://www.acmicpc.net/problem/2108)|
+|2주차|[10. 정렬](https://www.acmicpc.net/step/9)           |[2108. 통계학](https://www.acmicpc.net/problem/2108)|
 |    |                                                    |[11650. 좌표 정렬하기](https://www.acmicpc.net/problem/11650)|
 |    |                                                    |[1181. 단어 정렬](https://www.acmicpc.net/problem/1181)|
 |    |                                                    |[10814. 나이순 정렬](https://www.acmicpc.net/problem/10814)|
-|3주차|[12. 집합과 맵](https://www.acmicpc.net/step/49)      |[14425. 문자열 집합](https://www.acmicpc.net/problem/14425)|
+|3주차|[13. 집합과 맵](https://www.acmicpc.net/step/49)      |[14425. 문자열 집합](https://www.acmicpc.net/problem/14425)|
 |    |                                                    |[1620. 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)|
 |    |                                                    |[1764. 듣보잡](https://www.acmicpc.net/problem/1764)|
 |    |                                                    |[1269. 대칭 차집합](https://www.acmicpc.net/problem/1269)|
 |    |                                                    |[11478. 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)|
-|4주차|[14. 정수론 및 조합론](https://www.acmicpc.net/step/18) |[2609. 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|
+|4주차|[15. 정수론 및 조합론](https://www.acmicpc.net/step/18) |[2609. 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|
 |    |                                                    |[1934. 최소공배수](https://www.acmicpc.net/problem/1934)|
 |    |                                                    |[2981. 검문](https://www.acmicpc.net/problem/2981)|
 |    |                                                    |[3036. 링](https://www.acmicpc.net/problem/3036)|
 |    |                                                    |[1010. 다리 놓기](https://www.acmicpc.net/problem/1010)|
 |    |                                                    |[9375. 패션왕 신혜빈](https://www.acmicpc.net/problem/9375)|
-|5주차|[15. 백트래킹](https://www.acmicpc.net/step/34)       |[15649. N과 M(1)](https://www.acmicpc.net/problem/15649)|
+|5주차|[16. 백트래킹](https://www.acmicpc.net/step/34)       |[15649. N과 M(1)](https://www.acmicpc.net/problem/15649)|
 |    |                                                    |[15650. N과 M(2)](https://www.acmicpc.net/problem/15650)|
 |    |                                                    |[9663. N-Queen](https://www.acmicpc.net/problem/9663)|
 |    |                                                    |[14888. 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|
 |    |                                                    |[14889. 스타트와 링크](https://www.acmicpc.net/problem/14889)|
-|6주차|[16. 동적계획법 1](https://www.acmicpc.net/step/16)    |[9461. 파도반 수열](https://www.acmicpc.net/problem/9461)|
+|6주차|[17. 동적계획법 1](https://www.acmicpc.net/step/16)    |[9461. 파도반 수열](https://www.acmicpc.net/problem/9461)|
 |    |                                                    |[1912. 연속합](https://www.acmicpc.net/problem/1912)|
 |    |                                                    |[1932. 정수 삼각형](https://www.acmicpc.net/problem/1932)|
 |    |                                                    |[2579. 계단 오르기](https://www.acmicpc.net/problem/2579)|
 |    |                                                    |[11053. 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|
-|7주차|[18. 그리디 알고리즘](https://www.acmicpc.net/step/33)  |[11047. 동전 0](https://www.acmicpc.net/problem/11047)|
+|7주차|[19. 그리디 알고리즘](https://www.acmicpc.net/step/33)  |[11047. 동전 0](https://www.acmicpc.net/problem/11047)|
 |    |                                                    |[1931. 회의실 배정](https://www.acmicpc.net/problem/1931)|
 |    |                                                    |[11399. ATM](https://www.acmicpc.net/problem/11399)|
 |    |                                                    |[1541. 잃어버린 괄호](https://www.acmicpc.net/problem/1541)|
 |    |                                                    |[13305. 주유소](https://www.acmicpc.net/problem/13305)|
-|8주차|[19. 스택](https://www.acmicpc.net/step/11)  |[10828. 스택](https://www.acmicpc.net/problem/10828)|
+|8주차|[20. 스택](https://www.acmicpc.net/step/11)          |[10828. 스택](https://www.acmicpc.net/problem/10828)|
 |    |                                                    |[10773. 제로](https://www.acmicpc.net/problem/10773)|
 |    |                                                    |[9012. 괄호](https://www.acmicpc.net/problem/9012)|
 |    |                                                    |[4949. 균형잡힌 세상](https://www.acmicpc.net/problem/4949)|
 |    |                                                    |[1874. 스택 수열](https://www.acmicpc.net/problem/1874)|
+|9주차|[21. 큐, 덱](https://www.acmicpc.net/step/12)        |[2164. 카드2](https://www.acmicpc.net/problem/2164)|
+|    |                                                    |[15828. Router](https://www.acmicpc.net/problem/15828)|
+|    |                                                    |[11866. 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)|
+|    |                                                    |[1966. 프린터 큐](https://www.acmicpc.net/problem/1966)|
+|    |                                                    |[1021. 회전하는 큐](https://www.acmicpc.net/problem/1021)|
 
 <br>
 
