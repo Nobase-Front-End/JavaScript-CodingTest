@@ -50,6 +50,11 @@
 |    |                                                    |[11866. 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)|
 |    |                                                    |[1966. 프린터 큐](https://www.acmicpc.net/problem/1966)|
 |    |                                                    |[1021. 회전하는 큐](https://www.acmicpc.net/problem/1021)|
+|10주차|[22. 분할 정복](https://www.acmicpc.net/step/20)     |[2630. 색종이 만들기](https://www.acmicpc.net/problem/2630)|
+|    |                                                    |[1992. 쿼드트리](https://www.acmicpc.net/problem/1992)|
+|    |                                                    |[1780. 종이의 개수](https://www.acmicpc.net/problem/1780)|
+|    |                                                    |[1629. 곱셈](https://www.acmicpc.net/problem/1629)|
+|    |                                                    |[2740. 행렬 ](https://www.acmicpc.net/problem/2740)|
 
 <br>
 
