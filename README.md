@@ -36,26 +36,31 @@
 |        |                                                         | [1932. 정수 삼각형](https://www.acmicpc.net/problem/1932)                    |
 |        |                                                         | [2579. 계단 오르기](https://www.acmicpc.net/problem/2579)                    |
 |        |                                                         | [11053. 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)   |
-| 7주차  | [18. 그리디 알고리즘](https://www.acmicpc.net/step/33)  | [11047. 동전 0](https://www.acmicpc.net/problem/11047)                       |
+| 7주차  | [19. 그리디 알고리즘](https://www.acmicpc.net/step/33)  | [11047. 동전 0](https://www.acmicpc.net/problem/11047)                       |
 |        |                                                         | [1931. 회의실 배정](https://www.acmicpc.net/problem/1931)                    |
 |        |                                                         | [11399. ATM](https://www.acmicpc.net/problem/11399)                          |
 |        |                                                         | [1541. 잃어버린 괄호](https://www.acmicpc.net/problem/1541)                  |
 |        |                                                         | [13305. 주유소](https://www.acmicpc.net/problem/13305)                       |
-| 8주차  | [19. 스택](https://www.acmicpc.net/step/11)             | [10828. 스택](https://www.acmicpc.net/problem/10828)                         |
+| 8주차  | [20. 스택](https://www.acmicpc.net/step/11)             | [10828. 스택](https://www.acmicpc.net/problem/10828)                         |
 |        |                                                         | [10773. 제로](https://www.acmicpc.net/problem/10773)                         |
 |        |                                                         | [9012. 괄호](https://www.acmicpc.net/problem/9012)                           |
 |        |                                                         | [4949. 균형잡힌 세상](https://www.acmicpc.net/problem/4949)                  |
 |        |                                                         | [1874. 스택 수열](https://www.acmicpc.net/problem/1874)                      |
-| 9주차  | [20. 큐, 덱](https://www.acmicpc.net/step/12)           | [2164. 카드2](https://www.acmicpc.net/problem/2164)                          |
+| 9주차  | [21. 큐, 덱](https://www.acmicpc.net/step/12)           | [2164. 카드2](https://www.acmicpc.net/problem/2164)                          |
 |        |                                                         | [15828. Router](https://www.acmicpc.net/problem/15828)                       |
 |        |                                                         | [11866. 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)              |
 |        |                                                         | [1966. 프린터 큐](https://www.acmicpc.net/problem/1966)                      |
 |        |                                                         | [1021. 회전하는 큐](https://www.acmicpc.net/problem/1021)                    |
-| 10주차 | [21. 분할 정복](https://www.acmicpc.net/step/20)        | [2630. 색종이 만들기](https://www.acmicpc.net/problem/2630)                  |
+| 10주차 | [22. 분할 정복](https://www.acmicpc.net/step/20)        | [2630. 색종이 만들기](https://www.acmicpc.net/problem/2630)                  |
 |        |                                                         | [1992. 쿼드트리](https://www.acmicpc.net/problem/1992)                       |
 |        |                                                         | [1780. 종이의 개수](https://www.acmicpc.net/problem/1780)                    |
 |        |                                                         | [1629. 곱셈](https://www.acmicpc.net/problem/1629)                           |
-|        |                                                         | [2740. 행렬 ](https://www.acmicpc.net/problem/2740)                          |
+|        |                                                         | [2740. 행렬](https://www.acmicpc.net/problem/2740)                          |
+| 11주차 | [23. 이분 탐색](https://www.acmicpc.net/step/29)        | [1920. 수 찾기](https://www.acmicpc.net/problem/1920)                  |
+|        |                                                         | [10816. 숫자 카드 2](https://www.acmicpc.net/problem/10816)                       |
+|        |                                                         | [1654. 랜선 자르기](https://www.acmicpc.net/problem/1654)                    |
+|        |                                                         | [2805. 나무 자르기](https://www.acmicpc.net/problem/2805)                           |
+|        |                                                         | [2110. 공유기 설치](https://www.acmicpc.net/problem/2110)                          |
 
 <br>
 
